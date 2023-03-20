@@ -1,2 +1,3 @@
 # Matching-Card-Game
- A game composed of certain amount of pairs, face down in random order.
+ A card game composed of 8 pairs, placed face down in random order.
+ With a main goal of turning over a matching pair by using memory, and finishing the game in as little time as possible.  
